@@ -1,8 +1,21 @@
-# React + Vite
+# Simple Counter Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A straightforward React application showcasing a simple counter with increment and decrement functionalities.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Technologies Used](#technologies-used)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **JavaScript (ES6+)**: Modern JavaScript syntax.
+- **CSS**: Styling for the project.
+
+## How to Use
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Aayush829/simple-counter-app.git
